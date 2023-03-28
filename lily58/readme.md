@@ -1,7 +1,8 @@
-qmk/keyboards/lily58/keymaps/thegg53
-
-
-splitkb/aurora/lily58/
+``` bash
+cd keyboards/splitkb/aurora/lily58/keymaps
+qmk compile -km gui                       
+```
+outputs to /qmk-firmware/
 
 https://github.com/qmk/qmk_firmware/tree/master/keyboards/splitkb/aurora/lily58
 
