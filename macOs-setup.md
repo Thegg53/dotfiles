@@ -1,10 +1,14 @@
 Extensions:
-- Maccy (clipboard manager with searchable history )
-- Rectangle ( better ways to snap windows to half, 2/3 of screen etc etc. Handy with ultrawide displays)
-- AltTab (change the altTab behavior to show previous of the open apps instead of icons only)
-- NeuHoner (draw borders around active window, flaky support lately)
+- [Maccy](https://formulae.brew.sh/cask/maccy) (clipboard manager with searchable history )
+- [Rectangle](https://rectangleapp.com/) ( better ways to snap windows to half, 2/3 of screen etc etc. Handy with ultrawide displays). The `Almost Maximize` is used to do the center 2/3
+  ```bash
+  defaults write com.knollsoft.Rectangle almostMaximizeWidth -float 0.7
+  defaults write com.knollsoft.Rectangle almostMaximizeHeight -float 0.97
+  ```
+- [AltTab](https://alt-tab-macos.netlify.app/) (change the altTab behavior to show previous of the open apps instead of icons only)
 - [SpaceId](https://github.com/dshnkao/SpaceId) (show the number of the current active workspace)
-- Dozer (hide some of the unused items in the top bar)
+- [Dozer](https://github.com/Mortennn/Dozer) (hide some of the unused items in the top bar)
+- NeuHoner (draw borders around active window, flaky support lately)
 
 
 ____
@@ -16,9 +20,11 @@ CotEditor ( notepad++ equivalent)
 
 ____
 Keybindings:
-Set the Spaces 1-10 for the Option + number 1-9,0
+- Set the Spaces 1-10 for the Option + number 1-9,0
+- In Settings/Keyboard, turn on `Keyboard Navigation` to be able to use tab to connect Bluetooth trackpad
+
 
 Settings:
-disable tap to click
+Trackpad -> disable tap to click
 
 
