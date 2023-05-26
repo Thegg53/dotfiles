@@ -13,6 +13,10 @@ Extensions:
   3- option § for active app (at least for the weird danish-international keyboard, we want the key on the left on the number 1 in the laptop keyboard
   ```
 - [SpaceId](https://github.com/dshnkao/SpaceId) (show the number of the current active workspace)
+```
+Preferences: launch on login ON
+Select Icon Per Monitor
+```
 - [Dozer](https://github.com/Mortennn/Dozer) (hide some of the unused items in the top bar)
 - NeuHoner (draw borders around active window, flaky support lately)
 
