@@ -32,7 +32,10 @@ ____
 Keybindings:
 - Set the Spaces 1-10 for the Option + number 1-9,0
 - In Settings/Keyboard, turn on `Keyboard Navigation` to be able to use tab to connect Bluetooth trackpad
-
+- Change Caps Lock to space
+- Enable Keyboard \navigation (to be able to use TAB to move in the menus, handy when the trackpad doesnt auto connect)
+- set the partial screenshot to clipboard as OPTION + U
+- set the partial screenshot to file as OPTION + SHIFT + U  (when in the preview app, there is a pencil like icon that enables the drawing tools)
 
 Settings:
 Trackpad -> disable tap to click
